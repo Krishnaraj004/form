@@ -1,0 +1,27 @@
+form{
+    border: 1px solid black;
+    width: 60%;
+    height: 80%;
+    margin: 0 auto;
+    background-color: rgb(235, 227, 227);
+}
+.mb-3{
+    display: flex;
+    
+}
+
+.mb-3 input{
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+   
+}
+.mb-3 label{
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.header{
+    text-align: start;
+    background-color: green;
+    color: white;
+}
